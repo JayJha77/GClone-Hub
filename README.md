@@ -1,4 +1,4 @@
-# Travel Destination Website
+# Google Homepage Clone
 ## Description
 Welcome to the Google Homepage Clone project! This project aims to replicate the familiar and user-friendly interface of the Google homepage, providing a seamless search experience.
 ## Getting Started
